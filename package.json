@@ -1,5 +1,5 @@
 {
-  "name": "sommd-react-native-screens",
+  "name": "@sobernaut/react-native-screens",
   "version": "2.16.0",
   "description": "Native navigation primitives for your React Native app.",
   "publishConfig": {
@@ -36,18 +36,18 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sobernaut/react-native-screens.git"
+    "url": "git+https://github.com/kmagiera/react-native-screens.git"
   },
   "author": {
-    "email": "silwalujjwal@gmail.com",
-    "name": "sobernaut"
+    "email": "krzys.magiera@gmail.com",
+    "name": "Krzysztof Magiera"
   },
   "license": "MIT",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/sobernaut/react-native-screens/issues"
+    "url": "https://github.com/kmagiera/react-native-screens/issues"
   },
-  "homepage": "https://github.com/sobernaut/react-native-screens#readme",
+  "homepage": "https://github.com/kmagiera/react-native-screens#readme",
   "peerDependencies": {
     "react": "*",
     "react-native": "*"
