@@ -27,9 +27,8 @@ jobs:
         with:
           node-version: 12
           registry-url: https://registry.npmjs.org/
-      - run: 
-          npm ci
-          npm publish
+      - run: npm ci
+      - run: npm publish
 #       - run:
 #           npm config set //registry.npmjs.org/:_authToken=$NODE_AUTH_TOKEN
 #           npm config set scope sobernaut
