@@ -36,11 +36,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kmagiera/react-native-screens.git"
+    "url": "git+https://github.com/sobernaut/react-native-screens.git"
   },
   "author": {
-    "email": "krzys.magiera@gmail.com",
-    "name": "Krzysztof Magiera"
+    "email": "silwalujjwal@gmail.com",
+    "name": "sobernaut"
   },
   "license": "MIT",
   "readmeFilename": "README.md",
