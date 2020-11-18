@@ -1,5 +1,5 @@
 {
-  "name": "@sobernaut/react-native-screens",
+  "name": "sommd-react-native-screens",
   "version": "2.16.0",
   "description": "Native navigation primitives for your React Native app.",
   "publishConfig": {
