@@ -2,6 +2,7 @@
   "name": "react-native-screens",
   "version": "2.15.0",
   "description": "Native navigation primitives for your React Native app.",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
   "scripts": {
     "check-types": "tsc --noEmit",
     "start": "react-native start",
