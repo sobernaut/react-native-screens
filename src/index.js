@@ -13,7 +13,7 @@ export function screensEnabled() {
 
 export class NativeScreen extends React.Component {
   render() {
-    const { active, activityState, style, enabled = true, ...rest } = this.props;
+    let { active, activityState, style, enabled = true, ...rest } = this.props;
     if (active !== undefined && activityState === undefined) {
       activityState = active !== 0 ? 2 : 0; // change taken from index.native.js
     }
