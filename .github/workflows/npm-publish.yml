@@ -30,7 +30,7 @@ jobs:
       - run: npm ci
       - run: |
           npm config set //registry.npmjs.org/:_authToken=$NODE_AUTH_TOKEN
-          npm config set scope "<sobernaut>"
+          npm config set scope "sobernaut"
           npm config list
           npm publish
         env:
